@@ -1,0 +1,8 @@
+{
+  "name": "Bhaskar AI Hub",
+  "description": "A premium AI ecosystem featuring real-time neural news, AI art generation, cinematic synthesis, and an elite community hub.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
